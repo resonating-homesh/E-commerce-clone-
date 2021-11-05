@@ -1,0 +1,21 @@
+/* .text-center
+{
+    text-align: center;
+} */
+.flex-center
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.my-2
+{
+    padding-top: 10px;
+    /* width: 300px; */
+    text-align: center;
+}
+.text-center
+{
+    text-align: center;
+}
